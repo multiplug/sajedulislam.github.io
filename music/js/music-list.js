@@ -195,7 +195,7 @@ let allMusic = [
     artist: "Eminem -  ft. Rihanna",
     img: "cover",
     src: "music-31"
-  },
+  },       {
     name: "Himaloy",
     artist: "Debi",
     img: "cover",
